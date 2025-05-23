@@ -68,7 +68,7 @@ h3{
 }
 /* Index */
 .home{
-    background : url(/portfolio/images/bg-home-office-studio.jpg) no-repeat;
+    background : url(../images/bg-home-office-studio.jpg) no-repeat;
     background-size: cover ;
     display: flex;
     flex-direction: column;
@@ -85,7 +85,7 @@ h3{
 
 /* Resume */
 .resume header::before{
-    background: url(Portfolio/images/bg-home-office-studio.jpg) center/cover;
+    background: url(../images/bg-home-office-studio.jpg) center/cover;
     content:"";
     display: block;
     height: 375px;
